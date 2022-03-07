@@ -24,17 +24,26 @@ Basic Git and Github. (Feel free to contact any mentor if you have any issue reg
 
 ### UI Of ToDo App
 
-
-![todoui](https://user-images.githubusercontent.com/47220251/156968819-89314914-16b0-4ec6-8f79-c7e1abdb9c6a.png)
+![UI](https://user-images.githubusercontent.com/47220251/156972495-cdb6538f-dff4-4565-8d3e-8a3daa5e7ec4.png)
 
 
 ### Adding The ToDO List
 
-![todoaddtask](https://user-images.githubusercontent.com/47220251/156968927-c73c5c97-dc76-4952-864d-dc43d24e84b0.png)
-
+![todoaddtask](https://user-images.githubusercontent.com/47220251/156972539-57ca4a96-6086-42dd-a5b5-64b1aa32635a.png)
 
 
 ### Completed The ToDO List Task
 
+"To complete the task click `check buttom`."
 
-![todocompletedtask](https://user-images.githubusercontent.com/47220251/156968883-a5505a5f-1a2c-4456-b5a2-06f680a302f2.png)
+![todocompletedtask](https://user-images.githubusercontent.com/47220251/156972594-163ef173-6150-4496-9f7a-b92a5fd7c3ea.png)
+
+
+### Delet The ToDO List Task
+
+"To delet the task click `close buttom`."
+
+![tododelettask](https://user-images.githubusercontent.com/47220251/156972663-9b5d573b-4066-47bf-9a56-a02efd596429.png)
+
+
+
