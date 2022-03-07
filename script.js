@@ -2,7 +2,6 @@ let input = document.querySelector('.entered-list');
 let addBtn = document.querySelector('.add-list');
 let tasks = document.querySelector('.tasks');
 
-// add btn disabled
 
 input.addEventListener('keyup', () => {
     if(input.value.trim() != 0){
